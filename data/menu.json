@@ -1,0 +1,1107 @@
+[
+  {
+    "id": 1,
+    "name": "Gurami Bakar De Boer",
+    "category": "Signature",
+    "price": "Rp 100.000",
+    "description": "Ikan gurami panggang/dibakar dengan lalapan disajikan dengan saus kecap terasi dan nasi putih. Grilled fish gurami with mix vegetables served with spicy soy sauce and steam rice.",
+    "image": "images/menu/01-gurami-bakar-de-boer.jpg",
+    "badge": [
+      "best",
+      "chef"
+    ],
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Martabak De Boer",
+    "category": "Delight & Bites",
+    "price": "Rp 41.000",
+    "description": "Martabak Inna Spesial dari kulit lumpia diisi dengan daging, sayuran dan telur disajikan dengan saus jahe dan cabai. Martabak Inna Special from spring roll filled with minced beef, vegetables and egg served with ginger sauce/chilli sauce.",
+    "image": "images/menu/02-martabak-de-boer.jpg",
+    "badge": [
+      "chef"
+    ],
+    "available": true
+  },
+  {
+    "id": 3,
+    "name": "Honey Drumstick",
+    "category": "Delight & Bites",
+    "price": "Rp 31.000",
+    "description": "Sayap ayam dibuat dengan tepung panir digoreng, disajikan dengan madu dan saus Thailand. Fried chicken wing served with honey and Thailand sauce.",
+    "image": "https://images.unsplash.com/photo-1567620832903-9fc6debc209f?auto=format&fit=crop&w=800&q=80",
+    "badge": [
+      "best"
+    ],
+    "available": true
+  },
+  {
+    "id": 4,
+    "name": "Pangsit Ayam",
+    "category": "Delight & Bites",
+    "price": "Rp 51.000",
+    "description": "Pangsit goreng di isi dengan sayuran dan ayam cincang, disajikan dengan saus cabe. Fried dumpling filled with vegetables and minced chicken meat, served with chilli sauce.",
+    "image": "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?auto=format&fit=crop&w=800&q=80",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 5,
+    "name": "Chicken Popcorn",
+    "category": "Delight & Bites",
+    "price": "Rp 61.000",
+    "description": "Ayam goreng yang dipotong kecil dan dilapisi tepung roti. Chicken popcorn is a dish of small, bite sized pieces of chicken that have been breaded.",
+    "image": "images/menu/05-chicken-popcorn.jpg",
+    "badge": [
+      "best"
+    ],
+    "available": true
+  },
+  {
+    "id": 6,
+    "name": "Tempe Jadoel",
+    "category": "Delight & Bites",
+    "price": "Rp 41.000",
+    "description": "Tempe goreng tepung disajikan dengan saus cabai. Fried tempe served with chili sauce.",
+    "image": "images/menu/06-tempe-jadoel.jpg",
+    "badge": [
+      "veg"
+    ],
+    "available": true
+  },
+  {
+    "id": 7,
+    "name": "Tahu Pong",
+    "category": "Delight & Bites",
+    "price": "Rp 31.000",
+    "description": "Tahu goreng krispi dimasak dengan cabai. Crispy fried tofu cooked with chilli.",
+    "image": "images/menu/07-tahu-pong.jpg",
+    "badge": [
+      "veg"
+    ],
+    "available": true
+  },
+  {
+    "id": 8,
+    "name": "Lumpia Deli",
+    "category": "Delight & Bites",
+    "price": "Rp 31.000",
+    "description": "Lumpia isi daging cincang, udang cincang dan disajikan dengan saus jahe dan saus cabai. Special fried spring rolls filled with minced beef, chopped shrimp & vegetables served with ginger sauce/chili sauce.",
+    "image": "https://images.unsplash.com/photo-1606525437679-037aca74a3e9?auto=format&fit=crop&w=800&q=80",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 9,
+    "name": "French Fries",
+    "category": "Delight & Bites",
+    "price": "Rp 41.000",
+    "description": "Kentang goreng disajikan dengan saus tartar dan saus cabai. Fried french fries served with tartar sauce and chilli sauce.",
+    "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?auto=format&fit=crop&w=800&q=80",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 10,
+    "name": "Bakwan Jagung",
+    "category": "Delight & Bites",
+    "price": "Rp 28.000",
+    "description": "Bakwan goreng yang berisi jagung, sayuran dan telur. Fried bakwan consist of corn, vegetables and egg.",
+    "image": "images/menu/10-bakwan-jagung.jpg",
+    "badge": [
+      "veg"
+    ],
+    "available": true
+  },
+  {
+    "id": 11,
+    "name": "Fried Banana",
+    "category": "Delight & Bites",
+    "price": "Rp 28.000",
+    "description": "Pisang goreng disajikan dengan keju dan coklat ceres. Fried banana serve with cheese and chocolate.",
+    "image": "images/menu/11-fried-banana.jpg",
+    "badge": [
+      "veg"
+    ],
+    "available": true
+  },
+  {
+    "id": 12,
+    "name": "Ubi Kayu De Boer",
+    "category": "Delight & Bites",
+    "price": "Rp 20.000",
+    "description": "Ubi kayu goreng khas De Boer, renyah dengan bumbu tradisional.",
+    "image": "images/menu/12-ubi-kayu-de-boer.jpg",
+    "badge": [
+      "veg"
+    ],
+    "available": true
+  },
+  {
+    "id": 13,
+    "name": "Pisang Goreng Kipas Keju/Coklat",
+    "category": "Delight & Bites",
+    "price": "Rp 25.000",
+    "description": "Pisang goreng kipas disajikan dengan pilihan topping keju atau coklat.",
+    "image": "https://images.unsplash.com/photo-1519869325930-281384150729?auto=format&fit=crop&w=800&q=80",
+    "badge": [
+      "veg"
+    ],
+    "available": true
+  },
+  {
+    "id": 14,
+    "name": "Lumpia Udang",
+    "category": "Delight & Bites",
+    "price": "Rp 25.000",
+    "description": "Lumpia isi udang segar, disajikan dengan saus jahe dan saus cabai.",
+    "image": "https://images.unsplash.com/photo-1606525437679-037aca74a3e9?auto=format&fit=crop&w=800&q=80",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 15,
+    "name": "Kentang Wedges",
+    "category": "Delight & Bites",
+    "price": "Rp 20.000",
+    "description": "Kentang wedges goreng renyah disajikan dengan saus pilihan.",
+    "image": "images/menu/15-kentang-wedges.jpg",
+    "badge": [
+      "veg"
+    ],
+    "available": true
+  },
+  {
+    "id": 16,
+    "name": "Caesar Salad",
+    "category": "Appetizer",
+    "price": "Rp 61.000",
+    "description": "Salad klasik dengan campuran selada, daging asap, keju parmesan disajikan dengan mayonaise dan crouton. Classic salad with mix vegetables, romaine, smoked beef, parmesan cheese and served with mayonaise.",
+    "image": "https://images.unsplash.com/photo-1546793665-c74683f339c1?auto=format&fit=crop&w=800&q=80",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 17,
+    "name": "Tropical Salad",
+    "category": "Appetizer",
+    "price": "Rp 61.000",
+    "description": "Salad buah, melon, anggur, strawberry, pineapple, pepaya disajikan dengan saus calypso. Fruit salad filled of melon, grape, strawberry, pineapple, papaya served with calypso sauce.",
+    "image": "images/menu/17-tropical-salad.jpg",
+    "badge": [
+      "chef",
+      "veg"
+    ],
+    "available": true
+  },
+  {
+    "id": 18,
+    "name": "Gado-Gado",
+    "category": "Appetizer",
+    "price": "Rp 51.000",
+    "description": "Campuran sayur-sayuran, tahu, tempe, telur dan kerupuk disajikan saus kacang. Mix vegetables with bean curd, egg and cracker served with peanut sauce.",
+    "image": "images/menu/18-gado-gado.jpg",
+    "badge": [
+      "best",
+      "veg"
+    ],
+    "available": true
+  },
+  {
+    "id": 19,
+    "name": "Green Garden Salad",
+    "category": "Appetizer",
+    "price": "Rp 30.000",
+    "description": "Salad segar dengan berbagai sayuran pilihan dan dressing vinaigrette.",
+    "image": "images/menu/19-green-garden-salad.jpg",
+    "badge": [
+      "veg"
+    ],
+    "available": true
+  },
+  {
+    "id": 20,
+    "name": "Chicken Salad",
+    "category": "Appetizer",
+    "price": "Rp 35.000",
+    "description": "Salad ayam segar dengan sayuran pilihan dan saus creamy.",
+    "image": "images/menu/20-chicken-salad.jpg",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 21,
+    "name": "Crunchy Caesar Salad",
+    "category": "Appetizer",
+    "price": "Rp 40.000",
+    "description": "Caesar salad dengan tambahan crouton ekstra renyah, selada romaine, parmesan, dan saus caesar khas.",
+    "image": "images/menu/21-crunchy-caesar-salad.jpg",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 22,
+    "name": "Cream Soup Mushroom",
+    "category": "Soup",
+    "price": "Rp 51.000",
+    "description": "Krim sup dengan campuran jamur dan disajikan dengan roti panggang. Cream mushroom soup filled with mushrooms and garlic bread.",
+    "image": "images/menu/22-cream-soup-mushroom.jpg",
+    "badge": [
+      "chef"
+    ],
+    "available": true
+  },
+  {
+    "id": 23,
+    "name": "Soup Buntut",
+    "category": "Soup",
+    "price": "Rp 123.000",
+    "description": "Sup buntut dengan wortel, kentang, kerupuk dan disajikan dengan nasi putih dan cabai hijau. Oxtail soup with carrot, potato, cracker served with steam rice and green chilli.",
+    "image": "images/menu/23-soup-buntut.jpg",
+    "badge": [
+      "best",
+      "chef"
+    ],
+    "available": true
+  },
+  {
+    "id": 24,
+    "name": "Soup Ayam",
+    "category": "Soup",
+    "price": "Rp 61.000",
+    "description": "Sup ayam dengan kentang, wortel, kerupuk dan disajikan dengan nasi putih dan cabai hijau. Chicken soup with carrot, potato, cracker and served with steam rice and green chilli.",
+    "image": "images/menu/24-soup-ayam.jpg",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 25,
+    "name": "Soto Medan",
+    "category": "Soup",
+    "price": "Rp 61.000",
+    "description": "Soto Medan dimasak dengan bumbu kuning, santan, disajikan dengan ayam, emping dan nasi putih. Soto Medan cook with yellow seasoning, coconut milk, beansprout, chicken shredded, cracker, green chilli and steam rice.",
+    "image": "images/menu/25-soto-medan.jpg",
+    "badge": [
+      "best"
+    ],
+    "available": true
+  },
+  {
+    "id": 26,
+    "name": "Soup Ikan Pedas",
+    "category": "Soup",
+    "price": "Rp 45.000",
+    "description": "Sup ikan segar dengan bumbu pedas khas Medan, cocok disantap dengan nasi putih.",
+    "image": "images/menu/26-soup-ikan-pedas.jpg",
+    "badge": [
+      "spicy"
+    ],
+    "available": true
+  },
+  {
+    "id": 27,
+    "name": "Mie Soup Kampung",
+    "category": "Soup",
+    "price": "Rp 20.000",
+    "description": "Mie kuah kampung dengan bumbu sederhana khas nusantara.",
+    "image": "images/menu/27-mie-soup-kampung.jpg",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 28,
+    "name": "Grilled Chicken Steak",
+    "category": "Main Course",
+    "price": "Rp 71.000",
+    "description": "Ayam panggang disajikan dengan kentang goreng, tumis sayuran dan disajikan dengan saus barbeque. Grilled chicken breast served with french fries, sauteed vegetables and served with barbeque sauce.",
+    "image": "https://images.unsplash.com/photo-1432139555190-58524dae6a55?auto=format&fit=crop&w=800&q=80",
+    "badge": [
+      "best"
+    ],
+    "available": true
+  },
+  {
+    "id": 29,
+    "name": "Pasta De Boer",
+    "category": "Main Course",
+    "price": "Rp 81.000",
+    "description": "Aneka pilihan pasta (spaghetti) dengan pilihan saus (carbonara, bolognese, aglio olio). Choice of pasta served with various option of sauces (carbonara, bolognese, aglio olio).",
+    "image": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&w=800&q=80",
+    "badge": [
+      "chef"
+    ],
+    "available": true
+  },
+  {
+    "id": 30,
+    "name": "Classic Sandwich",
+    "category": "Main Course",
+    "price": "Rp 81.000",
+    "description": "Roti lapis dengan selada, ayam, telur dadar dan keju, disajikan dengan kentang goreng. Sandwich served with lettuce, chicken, egg, cheese and with french fries.",
+    "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=800&q=80",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 31,
+    "name": "Sate Ayam",
+    "category": "Main Course",
+    "price": "Rp 71.000",
+    "description": "Sate daging ayam yang dibakar dan disajikan dengan saus kacang. Grilled chicken satay served with peanut sauce.",
+    "image": "images/menu/31-sate-ayam.jpg",
+    "badge": [
+      "best"
+    ],
+    "available": true
+  },
+  {
+    "id": 32,
+    "name": "Fish and Chips",
+    "category": "Main Course",
+    "price": "Rp 73.000",
+    "description": "Ikan goreng tepung disajikan dengan sayuran, kentang goreng dan saus tar tar. Deep fried fish with vegetables, french fries and tar tar sauce.",
+    "image": "https://images.unsplash.com/photo-1579208030886-b937da0925dc?auto=format&fit=crop&w=800&q=80",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 33,
+    "name": "Nasi Goreng Spesial",
+    "category": "Main Course",
+    "price": "Rp 61.000",
+    "description": "Nasi goreng disajikan dengan ayam goreng, sate, telur, kerupuk dan acar. Fried rice served with fried chicken, satay, fried egg, crackers and pickles.",
+    "image": "images/menu/33-nasi-goreng-spesial.jpg",
+    "badge": [
+      "best"
+    ],
+    "available": true
+  },
+  {
+    "id": 34,
+    "name": "Mie/Bihun Goreng/Kuah",
+    "category": "Main Course",
+    "price": "Rp 51.000",
+    "description": "Mie/bihun goreng/kuah disajikan dengan sayuran, udang, bakso dan disajikan dengan telur mata sapi dan acar. Fried noodles or soup noodles serve with vegetables, shrimp, meatball, chicken fried egg and pickles.",
+    "image": "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?auto=format&fit=crop&w=800&q=80",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 35,
+    "name": "Udang Sambalado",
+    "category": "Main Course",
+    "price": "Rp 81.000",
+    "description": "Udang goreng dimasak dengan sambalado. Fried shrimp cooked with sambalado.",
+    "image": "images/menu/35-udang-sambalado.jpg",
+    "badge": [
+      "spicy",
+      "chef"
+    ],
+    "available": true
+  },
+  {
+    "id": 36,
+    "name": "Mie Bangladesh",
+    "category": "Main Course",
+    "price": "Rp 30.000",
+    "description": "Mie Bangladesh khas dengan bumbu rempah yang kuat dan cita rasa autentik.",
+    "image": "images/menu/36-mie-bangladesh.jpg",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 37,
+    "name": "Steamboat",
+    "category": "Main Course",
+    "price": "Rp 65.000",
+    "description": "Steamboat dengan aneka bahan segar: sayuran, daging, seafood, dan tofu dimasak dalam kaldu gurih.",
+    "image": "images/menu/37-steamboat.jpg",
+    "badge": [
+      "chef"
+    ],
+    "available": true
+  },
+  {
+    "id": 38,
+    "name": "Nasi Goreng Kecombrang",
+    "category": "Favorite Rice",
+    "price": "Rp 30.000",
+    "description": "Nasi goreng khas dengan aroma kecombrang (bunga kantan) yang segar dan unik.",
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80",
+    "badge": [
+      "new"
+    ],
+    "available": true
+  },
+  {
+    "id": 39,
+    "name": "Nasi Goreng Medan",
+    "category": "Favorite Rice",
+    "price": "Rp 30.000",
+    "description": "Nasi goreng khas Medan dengan bumbu rempah dan topping lengkap.",
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80",
+    "badge": [
+      "best"
+    ],
+    "available": true
+  },
+  {
+    "id": 40,
+    "name": "Nasi Goreng Kampung",
+    "category": "Favorite Rice",
+    "price": "Rp 30.000",
+    "description": "Nasi goreng kampung sederhana dengan bumbu bawang merah, bawang putih dan kecap.",
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 41,
+    "name": "Nasi Goreng Seafood",
+    "category": "Favorite Rice",
+    "price": "Rp 30.000",
+    "description": "Nasi goreng dengan topping seafood segar: udang, cumi, dan ikan.",
+    "image": "images/menu/41-nasi-goreng-seafood.jpg",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 42,
+    "name": "Nasi Goreng Special",
+    "category": "Favorite Rice",
+    "price": "Rp 40.000",
+    "description": "Nasi goreng spesial dengan topping lengkap: ayam, sate, telur, kerupuk dan acar.",
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80",
+    "badge": [
+      "best"
+    ],
+    "available": true
+  },
+  {
+    "id": 43,
+    "name": "Nasi Goreng Tom Yam",
+    "category": "Favorite Rice",
+    "price": "Rp 40.000",
+    "description": "Nasi goreng dengan bumbu Tom Yam yang asam, pedas dan harum serai.",
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80",
+    "badge": [
+      "new",
+      "spicy"
+    ],
+    "available": true
+  },
+  {
+    "id": 44,
+    "name": "Nasi Goreng Telur",
+    "category": "Favorite Rice",
+    "price": "Rp 25.000",
+    "description": "Nasi goreng sederhana dengan telur dadar dan kerupuk.",
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 45,
+    "name": "Rice Bowl Ayam Kemangi",
+    "category": "Favorite Rice",
+    "price": "Rp 35.000",
+    "description": "Nasi bowl dengan ayam tumis kemangi yang harum dan gurih.",
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 46,
+    "name": "Rice Bowl Chicken Katsu",
+    "category": "Favorite Rice",
+    "price": "Rp 35.000",
+    "description": "Nasi bowl dengan chicken katsu renyah dan saus katsu.",
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80",
+    "badge": [
+      "best"
+    ],
+    "available": true
+  },
+  {
+    "id": 47,
+    "name": "Rice Bowl Fish Katsu",
+    "category": "Favorite Rice",
+    "price": "Rp 35.000",
+    "description": "Nasi bowl dengan fish katsu renyah dan saus katsu.",
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 48,
+    "name": "Mie Balap Medan Biasa",
+    "category": "Noodles",
+    "price": "Rp 17.000",
+    "description": "Mie balap khas Medan dengan bumbu sederhana dan topping standar.",
+    "image": "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?auto=format&fit=crop&w=800&q=80",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 49,
+    "name": "Mie Balap Seafood",
+    "category": "Noodles",
+    "price": "Rp 25.000",
+    "description": "Mie balap khas Medan dengan topping seafood segar.",
+    "image": "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?auto=format&fit=crop&w=800&q=80",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 50,
+    "name": "Mie Aceh",
+    "category": "Noodles",
+    "price": "Rp 20.000",
+    "description": "Mie Aceh dengan bumbu rempah khas dan pilihan topping ayam atau seafood.",
+    "image": "images/menu/50-mie-aceh.jpg",
+    "badge": [
+      "spicy"
+    ],
+    "available": true
+  },
+  {
+    "id": 51,
+    "name": "Mie/Bihun Goreng/Kuah",
+    "category": "Noodles",
+    "price": "Rp 20.000",
+    "description": "Pilihan mie atau bihun goreng/kuah dengan sayuran dan topping pilihan.",
+    "image": "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?auto=format&fit=crop&w=800&q=80",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 52,
+    "name": "Mie Bangladesh",
+    "category": "Noodles",
+    "price": "Rp 20.000",
+    "description": "Mie Bangladesh dengan bumbu khas yang kuat.",
+    "image": "images/menu/52-mie-bangladesh.jpg",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 53,
+    "name": "Indomie Kuah/Goreng",
+    "category": "Noodles",
+    "price": "Rp 20.000",
+    "description": "Indomie kuah atau goreng dengan tambahan topping telur dan sayuran.",
+    "image": "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?auto=format&fit=crop&w=800&q=80",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 54,
+    "name": "Mie Bihun Goreng",
+    "category": "Noodles",
+    "price": "Rp 25.000",
+    "description": "Mie bihun goreng dengan bumbu tradisional dan sayuran segar.",
+    "image": "images/menu/54-mie-bihun-goreng.jpg",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 55,
+    "name": "Cah Kailan",
+    "category": "Vegetables",
+    "price": "Rp 31.000",
+    "description": "Tumis sayur kailan dengan jamur dan ayam. Sauteed kailan with mushroom and chicken.",
+    "image": "images/menu/55-cah-kailan.jpg",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 56,
+    "name": "Chapcay Seafood",
+    "category": "Vegetables",
+    "price": "Rp 31.000",
+    "description": "Tumis sayur-sayuran dengan seafood. Sauteed mix vegetables with seafood.",
+    "image": "images/menu/56-chapcay-seafood.jpg",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 57,
+    "name": "Tauge Ikan Asin",
+    "category": "Vegetables",
+    "price": "Rp 31.000",
+    "description": "Tumis tauge dengan ikan asin. Sauteed beansprout with salted fish.",
+    "image": "images/menu/57-tauge-ikan-asin.jpg",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 58,
+    "name": "Roti Bakar Srikaya",
+    "category": "Dessert",
+    "price": "Rp 28.000",
+    "description": "Roti bakar dilapisi saus srikaya. Toast bread served with srikaya sauce.",
+    "image": "images/menu/58-roti-bakar-srikaya.jpg",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 59,
+    "name": "Pudding Tiramisu",
+    "category": "Dessert",
+    "price": "Rp 51.000",
+    "description": "Puding tiramisu berisi biskuit dan disajikan dengan whipped cream. Tiramisu pudding filled of biscuits and served with whipped cream.",
+    "image": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?auto=format&fit=crop&w=800&q=80",
+    "badge": [
+      "best"
+    ],
+    "available": true
+  },
+  {
+    "id": 60,
+    "name": "Fruit Platter",
+    "category": "Dessert",
+    "price": "Rp 41.000",
+    "description": "Potongan buah pepaya, melon, semangka, nenas disajikan dengan youghurt. Sliced fruits papaya, melon, watermelon and pineapple served with youghurt.",
+    "image": "https://images.unsplash.com/photo-1490474418585-ba9bad8fd0ea?auto=format&fit=crop&w=800&q=80",
+    "badge": [
+      "veg"
+    ],
+    "available": true
+  },
+  {
+    "id": 61,
+    "name": "Es Teler",
+    "category": "Dessert",
+    "price": "Rp 41.000",
+    "description": "Es teler minuman yang disajikan dengan alpukat, susu kental manis, nangka, nata de coco, nutrijel. Es teler served with avocado, condenced milk, jack fruits jelly and nata de coco.",
+    "image": "images/menu/61-es-teler.jpg",
+    "badge": [
+      "best"
+    ],
+    "available": true
+  },
+  {
+    "id": 62,
+    "name": "Ice Cream Tempoe Doloe",
+    "category": "Dessert",
+    "price": "Rp 33.000",
+    "description": "Pilihan ice cream disajikan dengan roti tawar. Choice of ice cream served with bread.",
+    "image": "images/menu/62-ice-cream-tempoe-doloe.jpg",
+    "badge": [
+      "chef"
+    ],
+    "available": true
+  },
+  {
+    "id": 63,
+    "name": "Assorted Fresh Fruits",
+    "category": "Dessert",
+    "price": "Rp 20.000",
+    "description": "Aneka buah segar pilihan musiman yang disajikan dengan cantik.",
+    "image": "images/menu/63-assorted-fresh-fruits.jpg",
+    "badge": [
+      "veg"
+    ],
+    "available": true
+  },
+  {
+    "id": 64,
+    "name": "Coffee Sanger",
+    "category": "Coffee",
+    "price": "Rp 28.000",
+    "description": "Kopi sanger khas Aceh — perpaduan kopi hitam dengan susu kental manis yang sempurna.",
+    "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?auto=format&fit=crop&w=800&q=80",
+    "badge": [
+      "best"
+    ],
+    "available": true
+  },
+  {
+    "id": 65,
+    "name": "Coffee Gula Aren",
+    "category": "Coffee",
+    "price": "Rp 28.000",
+    "description": "Kopi dengan pemanis gula aren alami yang memberikan rasa karamel khas.",
+    "image": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?auto=format&fit=crop&w=800&q=80",
+    "badge": [
+      "best"
+    ],
+    "available": true
+  },
+  {
+    "id": 66,
+    "name": "Americano / Espresso",
+    "category": "Coffee",
+    "price": "Rp 28.000",
+    "description": "Pilihan kopi hitam: Americano atau Espresso murni.",
+    "image": "https://images.unsplash.com/photo-1510707577719-ae7c14805e3a?auto=format&fit=crop&w=800&q=80",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 67,
+    "name": "Avocado Coffee",
+    "category": "Coffee",
+    "price": "Rp 48.000",
+    "description": "Perpaduan kopi espresso dengan alpukat creamy. Minuman signature yang menyegarkan.",
+    "image": "images/menu/67-avocado-coffee.jpg",
+    "badge": [
+      "chef"
+    ],
+    "available": true
+  },
+  {
+    "id": 68,
+    "name": "Cappuccino / Latte / Caramel Machiato",
+    "category": "Coffee",
+    "price": "Rp 30.000",
+    "description": "Pilihan kopi susu: Cappuccino, Latte, atau Caramel Machiato.",
+    "image": "https://images.unsplash.com/photo-1517256064527-09c73fc73e38?auto=format&fit=crop&w=800&q=80",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 69,
+    "name": "Long Black",
+    "category": "Coffee",
+    "price": "Rp 28.000",
+    "description": "Kopi hitam long black dengan rasa yang kuat dan aroma yang kaya.",
+    "image": "images/menu/69-long-black.jpg",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 70,
+    "name": "Hot Cappuccino",
+    "category": "Coffee",
+    "price": "Rp 32.000",
+    "description": "Cappuccino panas dengan foam susu yang lembut dan sempurna.",
+    "image": "https://images.unsplash.com/photo-1517256064527-09c73fc73e38?auto=format&fit=crop&w=800&q=80",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 71,
+    "name": "Coffee Brown Sugar",
+    "category": "Coffee",
+    "price": "Rp 30.000",
+    "description": "Kopi dengan gula merah caramel yang manis dan creamy.",
+    "image": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?auto=format&fit=crop&w=800&q=80",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 72,
+    "name": "Latte",
+    "category": "Coffee",
+    "price": "Rp 35.000",
+    "description": "Espresso dengan susu panas yang lembut dan creamy.",
+    "image": "https://images.unsplash.com/photo-1517256064527-09c73fc73e38?auto=format&fit=crop&w=800&q=80",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 73,
+    "name": "Wedang Jahe",
+    "category": "Coffee",
+    "price": "Rp 15.000",
+    "description": "Minuman jahe hangat tradisional, menyegarkan dan menghangatkan tubuh.",
+    "image": "images/menu/73-wedang-jahe.jpg",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 74,
+    "name": "Jasmine Tea",
+    "category": "Tea",
+    "price": "Rp 28.000",
+    "description": "Teh jasmine harum yang menenangkan, disajikan panas atau dingin.",
+    "image": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=800&q=80",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 75,
+    "name": "Earl Grey Tea",
+    "category": "Tea",
+    "price": "Rp 28.000",
+    "description": "Teh Earl Grey dengan aroma bergamot yang khas dan elegan.",
+    "image": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=800&q=80",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 76,
+    "name": "Green Tea",
+    "category": "Tea",
+    "price": "Rp 28.000",
+    "description": "Teh hijau segar dengan manfaat antioksidan, disajikan panas atau dingin.",
+    "image": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=800&q=80",
+    "badge": [
+      "veg"
+    ],
+    "available": true
+  },
+  {
+    "id": 77,
+    "name": "Chamomile Tea",
+    "category": "Tea",
+    "price": "Rp 28.000",
+    "description": "Teh chamomile yang menenangkan dan cocok untuk relaksasi.",
+    "image": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=800&q=80",
+    "badge": [
+      "veg"
+    ],
+    "available": true
+  },
+  {
+    "id": 78,
+    "name": "Ice Lemon Tea",
+    "category": "Tea",
+    "price": "Rp 25.000",
+    "description": "Es teh lemon yang segar dan menyegarkan.",
+    "image": "images/menu/78-ice-lemon-tea.jpg",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 79,
+    "name": "Teh Tarik",
+    "category": "Tea",
+    "price": "Rp 25.000",
+    "description": "Teh susu khas yang ditarik hingga berbuih lembut.",
+    "image": "images/menu/79-teh-tarik.jpg",
+    "badge": [
+      "best"
+    ],
+    "available": true
+  },
+  {
+    "id": 80,
+    "name": "Ice Lemon Grass Tea",
+    "category": "Tea",
+    "price": "Rp 25.000",
+    "description": "Es teh serai yang harum dan menyegarkan.",
+    "image": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=800&q=80",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 81,
+    "name": "Lychee Tea",
+    "category": "Tea",
+    "price": "Rp 28.000",
+    "description": "Teh dengan rasa lychee yang manis dan harum.",
+    "image": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=800&q=80",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 82,
+    "name": "Peach Tea",
+    "category": "Tea",
+    "price": "Rp 25.000",
+    "description": "Teh dengan aroma dan rasa peach yang lembut.",
+    "image": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=800&q=80",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 83,
+    "name": "Jus Alpukat",
+    "category": "Fresh Juice",
+    "price": "Rp 28.000",
+    "description": "Jus alpukat segar yang creamy dan menyehatkan.",
+    "image": "images/menu/83-jus-alpukat.jpg",
+    "badge": [
+      "veg"
+    ],
+    "available": true
+  },
+  {
+    "id": 84,
+    "name": "Jus Passion Fruit",
+    "category": "Fresh Juice",
+    "price": "Rp 28.000",
+    "description": "Jus buah passion yang segar dengan rasa asam manis khas.",
+    "image": "images/menu/84-jus-passion-fruit.jpg",
+    "badge": [
+      "veg"
+    ],
+    "available": true
+  },
+  {
+    "id": 85,
+    "name": "Jus Tamarillo",
+    "category": "Fresh Juice",
+    "price": "Rp 28.000",
+    "description": "Jus terong belanda (tamarillo) segar dengan rasa unik yang khas.",
+    "image": "images/menu/85-jus-tamarillo.jpg",
+    "badge": [
+      "veg"
+    ],
+    "available": true
+  },
+  {
+    "id": 86,
+    "name": "Jus Dragon Fruit",
+    "category": "Fresh Juice",
+    "price": "Rp 28.000",
+    "description": "Jus buah naga segar berwarna merah cerah yang kaya antioksidan.",
+    "image": "images/menu/86-jus-dragon-fruit.jpg",
+    "badge": [
+      "veg"
+    ],
+    "available": true
+  },
+  {
+    "id": 87,
+    "name": "Jus Semangka",
+    "category": "Fresh Juice",
+    "price": "Rp 28.000",
+    "description": "Jus semangka segar yang manis dan menyegarkan.",
+    "image": "images/menu/87-jus-semangka.jpg",
+    "badge": [
+      "veg"
+    ],
+    "available": true
+  },
+  {
+    "id": 88,
+    "name": "Jus Melon",
+    "category": "Fresh Juice",
+    "price": "Rp 28.000",
+    "description": "Jus melon segar dengan rasa manis alami.",
+    "image": "images/menu/88-jus-melon.jpg",
+    "badge": [
+      "veg"
+    ],
+    "available": true
+  },
+  {
+    "id": 89,
+    "name": "Jus Wortel",
+    "category": "Fresh Juice",
+    "price": "Rp 28.000",
+    "description": "Jus wortel segar yang kaya vitamin dan menyehatkan.",
+    "image": "images/menu/89-jus-wortel.jpg",
+    "badge": [
+      "veg"
+    ],
+    "available": true
+  },
+  {
+    "id": 90,
+    "name": "Jus Sunkist",
+    "category": "Fresh Juice",
+    "price": "Rp 28.000",
+    "description": "Jus jeruk sunkist segar yang kaya vitamin C.",
+    "image": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?auto=format&fit=crop&w=800&q=80",
+    "badge": [
+      "veg"
+    ],
+    "available": true
+  },
+  {
+    "id": 91,
+    "name": "Fresh Orange Juice",
+    "category": "Fresh Juice",
+    "price": "Rp 28.000",
+    "description": "Jus jeruk segar yang diperas langsung.",
+    "image": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?auto=format&fit=crop&w=800&q=80",
+    "badge": [
+      "veg"
+    ],
+    "available": true
+  },
+  {
+    "id": 92,
+    "name": "Jus Strawberry",
+    "category": "Fresh Juice",
+    "price": "Rp 28.000",
+    "description": "Jus strawberry segar dengan rasa manis asam yang menyegarkan.",
+    "image": "images/menu/92-jus-strawberry.jpg",
+    "badge": [
+      "veg"
+    ],
+    "available": true
+  },
+  {
+    "id": 93,
+    "name": "Baby Bunny",
+    "category": "Healthy Juice",
+    "price": "Rp 35.000",
+    "description": "Minuman sehat dari campuran wortel, yakult, sunkist, dan orange juice.",
+    "image": "https://images.unsplash.com/photo-1622597467836-f3285f2131b8?auto=format&fit=crop&w=800&q=80",
+    "badge": [
+      "chef",
+      "veg"
+    ],
+    "available": true
+  },
+  {
+    "id": 94,
+    "name": "Green Juice",
+    "category": "Healthy Juice",
+    "price": "Rp 35.000",
+    "description": "Minuman sehat dari campuran sawi, nanas, dan buah hijau segar.",
+    "image": "images/menu/94-green-juice.jpg",
+    "badge": [
+      "veg"
+    ],
+    "available": true
+  },
+  {
+    "id": 95,
+    "name": "Mineral Water",
+    "category": "Drinks",
+    "price": "Rp 15.000",
+    "description": "Air mineral segar.",
+    "image": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?auto=format&fit=crop&w=800&q=80",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 96,
+    "name": "Soft Drink",
+    "category": "Drinks",
+    "price": "Rp 25.000",
+    "description": "Pilihan minuman ringan bersoda.",
+    "image": "images/menu/96-soft-drink.jpg",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 97,
+    "name": "Ice Coffee Sanger",
+    "category": "Coffee",
+    "price": "Rp 28.000",
+    "description": "Kopi sanger dingin khas Aceh disajikan dengan es batu.",
+    "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?auto=format&fit=crop&w=800&q=80",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 98,
+    "name": "Ice Coffee Cappuccino",
+    "category": "Coffee",
+    "price": "Rp 32.000",
+    "description": "Cappuccino es dingin dengan foam susu yang lembut.",
+    "image": "https://images.unsplash.com/photo-1517256064527-09c73fc73e38?auto=format&fit=crop&w=800&q=80",
+    "badge": [],
+    "available": true
+  },
+  {
+    "id": 99,
+    "name": "Ice Coffee Gula Aren",
+    "category": "Coffee",
+    "price": "Rp 32.000",
+    "description": "Kopi susu gula aren dingin yang manis dan creamy.",
+    "image": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?auto=format&fit=crop&w=800&q=80",
+    "badge": [
+      "best"
+    ],
+    "available": true
+  }
+]

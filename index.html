@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>De Boer Restaurant — Grand Inna Medan | Digital Menu</title>
+<meta name="description" content="Digital Menu De Boer Restaurant, Hotel Grand Inna Medan. Nikmati cita rasa terbaik pilihan nusantara & internasional. Taste The Heritage.">
+<meta property="og:title" content="De Boer Restaurant — Grand Inna Medan">
+<meta property="og:description" content="Digital Menu De Boer Restaurant. Taste The Heritage — perpaduan kemewahan dan cita rasa autentik.">
+<meta property="og:type" content="restaurant.restaurant">
+<meta property="og:locale" content="id_ID">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍽️</text></svg>">
+
+<!-- Google Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<!-- Structured Data -->
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"Restaurant",
+  "name":"De Boer Restaurant",
+  "description":"Signature dining destination dari Hotel Grand Inna Medan. Taste The Heritage.",
+  "address":{"@type":"PostalAddress","streetAddress":"Jl. Balai Kota No.2, Kesawan","addressLocality":"Medan","addressRegion":"Sumatera Utara","addressCountry":"ID"},
+  "telephone":"061-415-7744",
+  "servesCuisine":["Indonesian","International","Western"],
+  "priceRange":"IDR 15.000 - IDR 123.000"
+}
+</script>
+
+<!-- Stylesheet -->
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<!-- ===== NAVBAR ===== -->
+<header class="nav" id="navbar">
+  <div class="container nav-inner">
+    <a href="#home" class="logo">De <span>Boer</span>
+      <small>Grand Inna Medan</small>
+    </a>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="#home" onclick="closeMenu()">Home</a></li>
+      <li><a href="#menu" onclick="closeMenu()">Menu</a></li>
+      <li><a href="#gallery" onclick="closeMenu()">Gallery</a></li>
+      <li><a href="#about" onclick="closeMenu()">About</a></li>
+      <li><a href="#contact" onclick="closeMenu()">Contact</a></li>
+    </ul>
+    <button class="hamburger" id="hamburger" onclick="toggleMenu()" aria-label="Toggle menu">☰</button>
+  </div>
+</header>
+
+<!-- ===== HERO ===== -->
+<section class="hero" id="home">
+  <div class="hero-content">
+    <p class="eyebrow">Grand Inna Medan · Fine Dining</p>
+    <h1>DE BOER <span>RESTAURANT</span></h1>
+    <p class="tagline">" Taste The Heritage "</p>
+    <p class="sub">Pengalaman bersantap mewah dengan perpaduan cita rasa nusantara dan internasional di jantung Kota Medan.</p>
+    <a href="#menu" class="btn btn-gold">Explore Menu</a>
+  </div>
+  <div class="scroll-cue" aria-hidden="true">❯</div>
+</section>
+
+<!-- ===== MENU ===== -->
+<section class="section" id="menu">
+  <div class="container">
+    <div class="section-head reveal">
+      <p class="eyebrow">Our Selection</p>
+      <h2>Menu Spesial Kami</h2>
+      <div class="divider"></div>
+    </div>
+
+    <div class="menu-tools reveal">
+      <div class="search-box">
+        <input type="text" id="searchInput" placeholder="Cari nama menu atau kategori..." oninput="renderMenu()" aria-label="Cari menu">
+        <span class="ic" aria-hidden="true">🔍</span>
+      </div>
+      <div class="filters" id="filters" role="group" aria-label="Filter kategori"></div>
+    </div>
+
+    <p class="menu-count" id="menuCount"></p>
+    <div class="menu-grid" id="menuGrid" role="list"></div>
+  </div>
+</section>
+
+<!-- ===== GALLERY ===== -->
+<section class="section" id="gallery" style="background:#101010">
+  <div class="container">
+    <div class="section-head reveal">
+      <p class="eyebrow">Moments</p>
+      <h2>Gallery</h2>
+      <div class="divider"></div>
+    </div>
+    <div class="gallery-grid reveal">
+      <figure class="g-wide g-tall"><img src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=900&q=80" alt="Suasana De Boer Restaurant" loading="lazy"></figure>
+      <figure><img src="https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=600&q=80" alt="Hidangan De Boer" loading="lazy"></figure>
+      <figure><img src="https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?auto=format&fit=crop&w=600&q=80" alt="Masakan nusantara" loading="lazy"></figure>
+      <figure class="g-wide"><img src="https://images.unsplash.com/photo-1424847651672-bf20a4b0982b?auto=format&fit=crop&w=900&q=80" alt="Meja makan fine dining" loading="lazy"></figure>
+      <figure><img src="https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=600&q=80" alt="Interior restoran" loading="lazy"></figure>
+      <figure><img src="https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=600&q=80" alt="Chef plating" loading="lazy"></figure>
+      <figure class="g-wide"><img src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=900&q=80" alt="Aneka hidangan" loading="lazy"></figure>
+    </div>
+  </div>
+</section>
+
+<!-- ===== ABOUT ===== -->
+<section class="section" id="about">
+  <div class="container about-wrap">
+    <div class="about-img reveal">
+      <img src="https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?auto=format&fit=crop&w=800&q=80" alt="De Boer Restaurant Grand Inna Medan" loading="lazy">
+      <span class="frame" aria-hidden="true"></span>
+    </div>
+    <div class="about-text reveal">
+      <p class="eyebrow">About Us</p>
+      <h2>Warisan Rasa, Sentuhan Mewah</h2>
+      <p>De Boer Restaurant adalah signature dining destination dari Hotel Grand Inna Medan. Mengusung filosofi <em>"Taste The Heritage"</em>, kami menyajikan hidangan terbaik mulai dari Signature Gurami Bakar De Boer hingga aneka masakan nusantara & internasional.</p>
+      <p>Dengan suasana elegan, pelayanan kelas premium, dan bahan-bahan pilihan, setiap kunjungan menjadi pengalaman bersantap yang tak terlupakan. Harga sudah termasuk pajak & service 21%.</p>
+      <div class="about-stats">
+        <div><div class="num">80+</div><small>Menu Pilihan</small></div>
+        <div><div class="num">5★</div><small>Hotel Heritage</small></div>
+        <div><div class="num">100%</div><small>Halal Kitchen</small></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== CONTACT ===== -->
+<section class="section" id="contact" style="background:#101010">
+  <div class="container">
+    <div class="section-head reveal">
+      <p class="eyebrow">Get In Touch</p>
+      <h2>Reservasi & Kontak</h2>
+      <div class="divider"></div>
+    </div>
+    <div class="contact-wrap">
+      <div class="contact-info reveal">
+        <div class="info-card">
+          <div class="ic" aria-hidden="true">📍</div>
+          <div><h4>Alamat</h4><p>Hotel Grand Inna Medan, Jl. Balai Kota No.2, Kesawan, Medan Barat, Kota Medan, Sumatera Utara</p></div>
+        </div>
+        <div class="info-card">
+          <div class="ic" aria-hidden="true">📞</div>
+          <div><h4>Telepon / Reservasi</h4><p>061 415 7744<br>0811 6561 819 (Hotel)</p></div>
+        </div>
+        <div class="info-card">
+          <div class="ic" aria-hidden="true">✉️</div>
+          <div><h4>Email</h4><p>deboer@grandinnamedan.com</p></div>
+        </div>
+        <div class="info-card">
+          <div class="ic" aria-hidden="true">🕒</div>
+          <div><h4>Jam Operasional</h4><p>Setiap hari · 06.00 – 23.00 WIB</p></div>
+        </div>
+      </div>
+      <div class="map-box reveal">
+        <iframe src="https://www.google.com/maps?q=Grand%20Inna%20Medan&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Lokasi De Boer Restaurant Grand Inna Medan"></iframe>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== FOOTER ===== -->
+<footer>
+  <div class="container">
+    <div class="foot-grid">
+      <div>
+        <div class="logo" style="margin-bottom:14px">De <span style="color:var(--gold)">Boer</span> Restaurant</div>
+        <p>Signature dining dari Hotel Grand Inna Medan. Taste The Heritage — perpaduan kemewahan dan cita rasa autentik.</p>
+        <p style="margin-top:8px;color:var(--gold);font-size:.8rem">*Harga sudah termasuk pajak & service 21%</p>
+        <div class="socials">
+          <a href="#" aria-label="Instagram" title="Instagram">◎</a>
+          <a href="#" aria-label="Facebook" title="Facebook">f</a>
+          <a href="https://wa.me/6281165618819" aria-label="WhatsApp" title="WhatsApp">✆</a>
+        </div>
+      </div>
+      <div>
+        <h4>Navigasi</h4>
+        <a href="#home">Home</a>
+        <a href="#menu">Menu</a>
+        <a href="#gallery">Gallery</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+      </div>
+      <div>
+        <h4>Kontak</h4>
+        <p>Jl. Balai Kota No.2, Medan</p>
+        <p>061 415 7744</p>
+        <p>08116561819 (Hotel)</p>
+        <p>deboer@grandinnamedan.com</p>
+      </div>
+    </div>
+    <div class="foot-bottom">© 2026 De Boer Restaurant — Hotel Grand Inna Medan. All Rights Reserved.</div>
+  </div>
+</footer>
+
+<!-- ===== POPUP MODAL ===== -->
+<div class="popup-overlay" id="popupOverlay" role="dialog" aria-modal="true" aria-labelledby="popupName" onclick="closePopup(event)">
+  <div class="popup-box" id="popupBox">
+    <div class="popup-img">
+      <button class="popup-close" onclick="closePopupDirect()" aria-label="Tutup">✕</button>
+      <img id="popupImg" src="" alt="" loading="lazy">
+      <div class="popup-img-overlay"></div>
+    </div>
+    <div class="popup-body">
+      <p class="popup-cat" id="popupCat"></p>
+      <div class="popup-top">
+        <h2 id="popupName"></h2>
+        <span class="popup-price" id="popupPrice"></span>
+      </div>
+      <div class="popup-badges" id="popupBadges"></div>
+      <p class="popup-desc" id="popupDesc"></p>
+      <p class="popup-note">* Harga sudah termasuk pajak &amp; service 21%. Reservasi: <strong>061 415 7744</strong></p>
+    </div>
+  </div>
+</div>
+
+<!-- ===== FLOATING BUTTONS ===== -->
+<a class="wa-float" href="https://wa.me/6281165618819?text=Halo%20De%20Boer%20Restaurant%2C%20saya%20ingin%20melakukan%20reservasi" target="_blank" rel="noopener" aria-label="Chat WhatsApp">
+  <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M.057 24l1.687-6.163a11.867 11.867 0 01-1.587-5.946C.16 5.335 5.495 0 12.05 0a11.82 11.82 0 018.413 3.488 11.82 11.82 0 013.48 8.414c-.003 6.557-5.338 11.892-11.893 11.892a11.9 11.9 0 01-5.688-1.448L.057 24zm6.597-3.807c1.676.995 3.276 1.591 5.392 1.592 5.448 0 9.886-4.434 9.889-9.885.002-5.462-4.415-9.89-9.881-9.892-5.452 0-9.887 4.434-9.889 9.884a9.86 9.86 0 001.51 5.26l-.999 3.648 3.978-1.607zm11.387-5.464c-.074-.124-.272-.198-.57-.347-.297-.149-1.758-.868-2.031-.967-.272-.099-.47-.149-.669.149-.198.297-.768.967-.941 1.165-.173.198-.347.223-.644.074-.297-.149-1.255-.462-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.297-.347.446-.521.151-.172.2-.296.3-.495.099-.198.05-.372-.025-.521-.075-.148-.669-1.611-.916-2.206-.242-.579-.487-.5-.669-.51l-.57-.01c-.198 0-.52.074-.792.372s-1.04 1.016-1.04 2.479 1.065 2.876 1.213 3.074c.149.198 2.095 3.2 5.076 4.487.709.306 1.263.489 1.694.626.712.226 1.36.194 1.872.118.571-.085 1.758-.719 2.006-1.413.248-.695.248-1.29.173-1.414z"/></svg>
+</a>
+<button class="top-btn" id="topBtn" onclick="scrollTop()" aria-label="Kembali ke atas">↑</button>
+
+<!-- Script -->
+<script src="js/script.js"></script>
+</body>
+</html>
